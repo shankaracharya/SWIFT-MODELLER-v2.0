@@ -30,3 +30,9 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
+
+
+Citations:
+Mathur A, Shankaracharya, Vidyarthi AS. SWIFT MODELLER v2.0: a platform-independent GUI for homology modeling. J Mol Model. 2012;18(7):3021-3023. doi:10.1007/s00894-011-1319-6
+
+Mathur A, Shankaracharya, Vidyarthi AS. SWIFT MODELLER: a Java based GUI for molecular modeling. J Mol Model. 2011;17(10):2601-2607. doi:10.1007/s00894-011-0960-4
